@@ -7,4 +7,6 @@
   Ci-joint le prénom et le nom des chaque membre du projet
 
   - Marel AGONGLO
+    - Spécialité : ILIA
+    - [Git]{kbsfkvlvefmZEVGBEUILFVEPbgzeifv} 
   - Johanu GANDONOU

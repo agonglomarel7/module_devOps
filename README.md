@@ -11,4 +11,4 @@
     - [Lien Git](https://github.com/agonglomarel7/)
   - Johanu GANDONOU
 
-    ![Logo du projet]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.connectinstitute.ma%2Fpartenariat-signe-avec-luniversite-de-bourgogne-et-luniversite-de-bourgogne-franche-compte%2F&psig=AOvVaw0T1rGYyTE2lcjanHJwueBe&ust=1726575984386000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjjsPO6x4gDFQAAAAAdAAAAABAI](https://blog.connectinstitute.ma/wp-content/uploads/2020/10/Universite%CC%81-de-Bourgogne-Franche-Compte%CC%81-1.png))
+    ![Logo du projet](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.u-bourgogne.fr%2Fpresse%2Fidentite-visuelle-charte-graphique-ub&psig=AOvVaw0T1rGYyTE2lcjanHJwueBe&ust=1726575984386000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjjsPO6x4gDFQAAAAAdAAAAABAP)

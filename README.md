@@ -14,6 +14,6 @@
     ![Logo du projet](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.u-bourgogne.fr%2Fpresse%2Fidentite-visuelle-charte-graphiqueub&psig=AOvVaw0T1rGYyTE2lcjanHJwueBe&ust=1726575984386000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjjsPO6x4gDFQAAAAAdAAAAABAP)
 
 
-#Statuts actions
+# Statuts actions
 
 Ce projet est actuellement en déverloppement Nous allons automatiser notre dépôt

@@ -4,6 +4,7 @@
 
   Dans ce Td, nous allons manipuler un dépôt de code source avec l'outil Git.
 
-  - George Washington
-* John Adams
-+ Thomas Jefferson
+  Ci-joint le prénom et le nom des chaque membre du projet
+
+  - Marel AGONGLO
+  - Johanu GANDONOU

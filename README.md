@@ -8,5 +8,5 @@
 
   - Marel AGONGLO
     - Spécialité : ILIA
-    - [Git]{kbsfkvlvefmZEVGBEUILFVEPbgzeifv} 
+    - [Git]('kbsfkvlvefmZEVGBEUILFVEPbgzeifv)
   - Johanu GANDONOU

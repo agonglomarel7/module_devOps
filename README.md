@@ -8,5 +8,7 @@
 
   - Marel AGONGLO
     - Spécialité : ILIA
-    - [Git](https://github.com/agonglomarel7/)
+    - [Lien Git](https://github.com/agonglomarel7/)
   - Johanu GANDONOU
+
+    [[https://github.com/USERNAME/REPOSITORY/blob/main/img/octocat.png|alt=octocat]]
